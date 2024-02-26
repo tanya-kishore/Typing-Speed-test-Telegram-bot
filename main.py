@@ -5,7 +5,7 @@ import time
 import random as r
 
 
-TOKEN='6854378885:AAHVQ67fJgpdAVkhKTpVzTxod9rk3ys5E48'
+TOKEN='use your telegram bot token here'
 Bot_name="Speedy"
 
 
