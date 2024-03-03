@@ -7,6 +7,7 @@ import random as r
 
 TOKEN='use your telegram bot token here'
 Bot_name="Speedy"
+My_telegram_bot="http://t.me/SpeedTyperBot"
 
 
 async def start(update: Update, context: CallbackContext) -> None:
