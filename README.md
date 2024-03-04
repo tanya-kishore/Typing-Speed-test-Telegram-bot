@@ -7,3 +7,7 @@ Upon starting the bot, you'll be greeted with a friendly message and the instruc
 Once you've completed typing the passage, the bot will instantly provide you with detailed feedback. You'll receive information on your typing speed (in words per minute) and your accuracy (as a percentage of correctly typed words). 
 
 Whether you're a competitive typist or just looking to improve your skills, SpeedTestBot is the perfect tool to help you reach your goals. So what are you waiting for? Start testing your speed and accuracy today! 🚀
+
+Feel free to use my telegram bot, here's the link
+http://t.me/SpeedTyperBot
+
